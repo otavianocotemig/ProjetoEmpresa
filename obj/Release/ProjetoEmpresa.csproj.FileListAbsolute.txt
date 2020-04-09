@@ -1,0 +1,7 @@
+C:\COTEMIG\Poo\ProjetoEmpresa\bin\Release\ProjetoEmpresa.exe.config
+C:\COTEMIG\Poo\ProjetoEmpresa\bin\Release\ProjetoEmpresa.exe
+C:\COTEMIG\Poo\ProjetoEmpresa\bin\Release\ProjetoEmpresa.pdb
+C:\COTEMIG\Poo\ProjetoEmpresa\obj\Release\ProjetoEmpresa.csprojAssemblyReference.cache
+C:\COTEMIG\Poo\ProjetoEmpresa\obj\Release\ProjetoEmpresa.csproj.CoreCompileInputs.cache
+C:\COTEMIG\Poo\ProjetoEmpresa\obj\Release\ProjetoEmpresa.exe
+C:\COTEMIG\Poo\ProjetoEmpresa\obj\Release\ProjetoEmpresa.pdb
